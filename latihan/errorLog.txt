@@ -1,0 +1,6 @@
+Application Error : divided by 0 (2020-02-20 15:17:36 +0700)
+Application Error : Array can't be coerced into Integer (2020-02-20 15:17:36 +0700)
+Application Error : String can't be coerced into Integer (2020-02-20 15:17:36 +0700)
+Application Error : divided by 0 (2020-02-20 15:22:00 +0700)
+Application Error : :file can't be coerced into Integer (2020-02-20 15:22:00 +0700)
+Application Error : nil can't be coerced into Integer (2020-02-20 15:22:00 +0700)
